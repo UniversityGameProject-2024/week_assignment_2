@@ -8,12 +8,15 @@
 https://github.com/UniversityGameProject-2024/Components/tree/main
 
 https://github.com/UniversityGameProject-2024/Components
+
 ---
 ## חלק ב - מצלמות ונקודות מבט
 
 קישור למשחק:
 
 https://wnikita.itch.io/week-assignment-2
+
+https://github.com/UniversityGameProject-2024/week_assignment_2
 
 ---
   
